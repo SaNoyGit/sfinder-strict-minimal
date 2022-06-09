@@ -15,8 +15,7 @@
     "preversion": "npm test",
     "postversion": "git push --follow-tags && npm publish"
   },
-  "repository": "eight04/sfinder-strict-minimal",
-  "author": "eight04 <eight04@gmail.com>",
+  "repository": "SaNoyGit/sfinder-strict-minimal",
   "license": "MIT",
   "devDependencies": {
     "c8": "^7.1.2",
@@ -27,6 +26,7 @@
     "csv-parse": "^4.10.1",
     "enquirer": "^2.3.5",
     "neodoc": "^2.0.2",
+    "sfinder-strict-minimal": "github:SaNoyGit/sfinder-strict-minimal",
     "tetris-fumen": "^1.1.1"
   },
   "bin": {
